@@ -1,6 +1,6 @@
 # Goodnight Rover
 
-Goodnight Rover is a game created in collaboration with @TreyDettmer for the Beginners Cricle Jam #3 between October 8th, 2020 and October 15th, 2020, that was hosted on the indie game platfrom itch.io. The goal of the project was to create a fully functional game in a weeks time based around the theme "A Different Planet" which was announced at the beginning of the game jam.
+Goodnight Rover is a game created by @vickersk and @TreyDettmer for the Beginners Cricle Jam #3 between October 8th, 2020 and October 15th, 2020, that was hosted on the indie game platfrom itch.io. The Beginners Circle Jam #3 was a game creation competition that challenged participants to create a fully functional game in a weeks time based around the theme "A Different Planet" which was announced on the start date of the game jam.
 
 The itch.io page can be found here: https://calicospartan.itch.io/goodnight-rover
 
