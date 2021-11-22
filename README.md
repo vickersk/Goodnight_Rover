@@ -4,6 +4,8 @@ Goodnight Rover is a game created by @vickersk and @TreyDettmer for the Beginner
 
 The itch.io page can be found here: https://calicospartan.itch.io/goodnight-rover
 
+The game was created in the Unity game engine with self made game assets and models.
+
 ### Description
 
 In Goodnight Rover, you control a rover with the mission of conducting valuable research for mission control back home, with the intent to gain further funding to lengthen the scope of the mission for as many days as possible. While controlling the rover you must research materials, traverse towards energy landing pods and importantly, fend off against hostile aliens attempting to halt your progress, all the while running out of energy and preserving your valuable robot health.
